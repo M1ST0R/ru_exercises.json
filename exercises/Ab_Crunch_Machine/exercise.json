@@ -1,18 +1,16 @@
 {
-  "name": "Ab Crunch Machine",
-  "force": "pull",
-  "level": "intermediate",
-  "mechanic": "isolation",
-  "equipment": "machine",
-  "primaryMuscles": [
-    "abdominals"
-  ],
+  "name": "Скручивания в тренажере на пресс",
+  "force": "тяга",
+  "level": "средний",
+  "mechanic": "изолированное",
+  "equipment": "тренажер",
+  "primaryMuscles": ["мышцы живота"],
   "secondaryMuscles": [],
   "instructions": [
-    "Select a light resistance and sit down on the ab machine placing your feet under the pads provided and grabbing the top handles. Your arms should be bent at a 90 degree angle as you rest the triceps on the pads provided. This will be your starting position.",
-    "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
-    "After a second pause, slowly return to the starting position as you breathe in.",
-    "Repeat the movement for the prescribed amount of repetitions."
+    "Выберите небольшой вес отягощения и сядьте в тренажер для пресса, заведя стопы под специальные валики и взявшись за верхние рукоятки. Ваши руки должны быть согнуты под углом 90 градусов, а трицепсы — опираться на предусмотренные подушки. Это будет ваше исходное положение.",
+    "Одновременно начните поднимать ноги и скручивать верхнюю часть торса. Делайте выдох при выполнении этого движения. Совет: выполняйте движение медленно и подконтрольно. Сосредоточьтесь на том, чтобы перемещать вес за счет мышц пресса, расслабив при этом ноги и стопы.",
+    "После секундной паузы медленно вернитесь в исходное положение, делая вдох.",
+    "Повторите движение рекомендованное количество раз."
   ],
-  "category": "strength"
+  "category": "силовые"
 }
